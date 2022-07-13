@@ -1,7 +1,7 @@
 import React from "react";
 import Links from "./Links";
 
-function About(props) {
+function About() {
   return (
     <div id="about">
       <h2>About Me</h2>
